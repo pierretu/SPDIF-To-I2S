@@ -1,2 +1,2 @@
-# i2s
+# SPDIF to I2S
  
