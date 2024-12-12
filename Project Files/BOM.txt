@@ -1,0 +1,18 @@
+SPDIF signal converter
+R1, R2: 1 kOhm SMD0603
+R3: 10 kOhm SMD0603
+R4: 75 Ohm SMD0603
+C1: 1 uF SMD0603
+C2, C3: 18 pF SMD0603
+C4, C5, C12: 0,1 uF SMD0603
+C6, C7: 4,7 uF SMD0805
+LD1: diode LED SMD0805D
+U1: ADM1815-5ART SOT-23
+U2: WM8804 SSOP20_300
+U3: ADM7160AUJZ-3.3 SOT-23-5
+J: 0 jumper SMD0402
+FB1, FB2: ferrite bead 600 Ohm/100 mA SMD0603
+XT: quartz resonator 12 MHz SMD 3,2×2,5
+I2S: angular pin connector 2,54 mm 6 pin SIP6H
+I2SO: angled IDC female connector ZL263-10DG
+SPDIF: angled RCA socket FC68391
